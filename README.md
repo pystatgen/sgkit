@@ -1,2 +1,1 @@
-# sgkit
-Pointer to https://github.com/sgkit-dev/sgkit
+We've moved to https://github.com/sgkit-dev/sgkit
